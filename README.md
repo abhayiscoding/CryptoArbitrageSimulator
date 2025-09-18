@@ -1,4 +1,4 @@
-# Cryptocurrency Arbitrage & Market Maker Simulator
+# Cryptocurrency Arbitrage Simulator
 
 Real-time arbitrage detection across multiple crypto exchanges with live visualization.
 
