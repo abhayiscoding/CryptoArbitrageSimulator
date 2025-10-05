@@ -2,10 +2,11 @@
 
 Real-time arbitrage detection across multiple crypto exchanges with live visualization.
 
-<picture>
-    <image alt='image1.png' src=./public/image1.png'>
-    <image alt='image2.png' src=./public/image2.png'>
-<picture>
+![Live Arbitrage Chart](./public/image1.png)
+*Real-time arbitrage detection across exchanges*
+
+![Profit Visualization](./public/image2.png)
+*Profit tracking with trading fees included*
 
 
 ## Features
